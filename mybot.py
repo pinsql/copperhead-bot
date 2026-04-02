@@ -43,7 +43,7 @@ import websockets
 GAME_SERVER = "ws://localhost:8765/ws/"
 
 # Your bot's display name (shown to all players in the tournament)
-BOT_NAME = "MyBot"
+BOT_NAME = "Steve.KB"
 
 # How your bot appears in logs
 BOT_VERSION = "1.0"
